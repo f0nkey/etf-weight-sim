@@ -13,7 +13,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-
 git push -f git@github.com:f0nkey/etf-weight-sim.git main:gh-pages
 
 cd -
